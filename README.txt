@@ -1,4 +1,14 @@
-# Movie Recommendation Systems: End-to-End Project Report
+# Movie Recommendation Systems
+
+## Acknowledgments
+This project was developed by Group 2:
+
+Nevin Khaemba
+Reuben Mutisya
+Esther Kabura
+Billy Ogonji
+Leah Njoroge
+Arlene Stanley
 
 ## 1. Project Overview & Objective
 
